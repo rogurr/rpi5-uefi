@@ -99,4 +99,5 @@ jobs:
             RPI_EFI.fd
             config.txt
             *.dtb
+            Build/
           if-no-files-found: error
